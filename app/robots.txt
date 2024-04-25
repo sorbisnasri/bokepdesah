@@ -1,8 +1,5 @@
 User-agent: *
-Disallow: /$
 Disallow: /liked
-Disallow: /_next/*
-Disallow: https://iili.io
 Disallow: https://*.dood.video/*
 Allow: /
 Sitemap: https://bokepdesah.pages.dev/sitemap.xml
