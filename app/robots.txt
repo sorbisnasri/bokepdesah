@@ -1,6 +1,6 @@
 User-agent: *
+Disallow: /$
 Disallow: /liked
-Disallow: /?
 Disallow: /_next/*
 Disallow: https://iili.io
 Disallow: https://*.dood.video/*
