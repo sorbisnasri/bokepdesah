@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /liked
+Disallow: 
 Allow: /
 Sitemap: https://bokepdesah.pages.dev/sitemap.xml
