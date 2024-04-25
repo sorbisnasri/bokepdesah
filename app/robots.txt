@@ -1,5 +1,4 @@
 User-agent: *
 Disallow: /liked
-Disallow: https://*.dood.video/*
 Allow: /
 Sitemap: https://bokepdesah.pages.dev/sitemap.xml
